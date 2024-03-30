@@ -1,0 +1,28 @@
+# Arquivos de banco de dados
+db.sqlite3
+
+# Arquivos de migração do Django
+/migrations/
+
+# Arquivos de ambiente (como .env)
+
+env
+
+# Arquivos de byte compilado do Python
+*.pyc
+
+# Arquivos de log
+*.log
+
+# Diretório de arquivos estáticos coletados
+/staticfiles/
+
+# Diretório de mídia coletada
+/media/
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Arquivos de dependência Python
+venv/
